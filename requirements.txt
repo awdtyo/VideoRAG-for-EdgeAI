@@ -1,0 +1,9 @@
+onnxruntime==1.18.1
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+pytesseract==0.3.13
+faster-whisper==1.0.3
+sentence-transformers==3.0.1
+chromadb==0.5.5
+requests==2.32.3
+Pillow==10.4.0
