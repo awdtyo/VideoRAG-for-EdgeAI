@@ -1,4 +1,4 @@
-# Local Video RAG for Raspberry Pi 5
+# Local Video RAG Pipeline for Raspberry Pi 5
 
 Fully local, multimodal video question-answering. Nothing leaves the device —
 no cloud APIs, no `ultralytics`. Sized to run on a Pi 5 with 4GB RAM.
