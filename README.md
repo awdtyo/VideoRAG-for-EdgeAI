@@ -5,7 +5,7 @@ no cloud APIs, no `ultralytics`. Sized to run on a Pi 5 with 4GB RAM.
 
 ## Architecture
 
-```
+``` 
 video.mp4
    ├── frames (sampled @ 1fps) ──► YOLOX-Nano (ONNX) ──► object labels
    │                           └─► Tesseract OCR (every Nth frame) ──► on-screen text
